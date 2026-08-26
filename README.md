@@ -4,4 +4,10 @@
 <br><br>
 <p>$${\color{indianred}oli \ 𑣲⋆ \ feel \ free \ to \ int!! \ pls!!}$$</p>
 <br><br>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1zyplf7opw051hb8ivr9b5bmw&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=eee8aa">
+  </a>
+</p>
+<br><br>
 </div>
