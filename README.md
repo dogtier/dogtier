@@ -1,4 +1,6 @@
+
 <div align="center">
+<img width="50%" height="auto" alt="GwgFGxBXYAAInwe" src="https://github.com/user-attachments/assets/c0a39a12-4c08-424f-9c3f-fd860b9a9d48" />
 <br><br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dogtier.visitor-badge&left_color=indianred&right_color=palegoldenrod&left_text=audience">
 <br><br>
