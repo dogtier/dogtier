@@ -1,7 +1,7 @@
 
 <div align="center">
 <br><br>
-<img src="https://cdn.imgchest.com/files/ee8a2ba19509.png" align="center" width="30%" height="auto">
+<img src="https://cdn.imgchest.com/files/61f543cc0090.png" align="center" width="40%" height="auto">
 <br><br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dogtier.visitor-badge&left_color=indianred&right_color=palegoldenrod&left_text=audience">
 <br><br>
